@@ -1,0 +1,5 @@
+*-csr*
+*-private-*
+mdf-client-cert.pem
+mdf-server-cert.pem
+star-local-lab-cert.pem
